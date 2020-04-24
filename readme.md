@@ -1,0 +1,1 @@
+curl -H "Content-Type: application/json" -X POST --data '{"flower":"1,5,9,3"}' http://localhost:5000/iris_post
